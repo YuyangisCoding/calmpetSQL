@@ -4,7 +4,7 @@ login and register functions. That means you can log in and register anywhere in
 world for our calmpet flutter app. You can skip below and just use app without any hassles;)
 
 If you want to, however, build this server yourself, you can do it quite easily.
-Spring-boot project can be found [here](https://github.com/YuyangisCoding/calmpetSQL.git) or from blackBoard submission
+
 
 0. assuming you have brew or apt-get package manager.
 1. install mysql-server on machine that you want to use as a server.
